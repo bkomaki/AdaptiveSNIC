@@ -115,4 +115,4 @@ https://www.flickr.com/photos/tomek_niedzwiedz/29347962448 (accessed Jun. 26, 20
 https://www.flickr.com/photos/swallowedtail/32582973873 (accessed Jun. 26, 2021)
 
 ## Repository
-GitHub repository link: https://github.com/janithsenanayaka/AdaptiveSNIC
+GitHub repository link: https://github.com/imaginith/AdaptiveSNIC
